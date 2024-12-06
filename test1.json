@@ -37,7 +37,10 @@
         "popular": "🔥 Popular",
         "duration": {
             "1_month": "1 mes",
+            "2_months": "2 meses",
             "3_months": "3 meses",
+            "4_months": "4 meses",
+            "6_months": "6 meses",
             "12_months": "12 meses"
         }
     },
@@ -49,7 +52,10 @@
         "popular": "🔥 Populaire",
         "duration": {
             "1_month": "1 mois",
+            "2_months": "2 mois",
             "3_months": "3 mois",
+            "4_months": "4 mois",
+            "6_months": "6 mois",
             "12_months": "12 mois"
         }
     }
