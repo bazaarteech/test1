@@ -7,8 +7,11 @@
         "popular": "🔥 شائع",
         "duration": {
             "1_month": "1 شهر",
+            "2_months": "2 شهرين",
             "3_months": "3 أشهر",
-            "12_months": "12 شهر"
+            "4_months": "4 أشهر",
+            "6_months": "6 اشهر",
+            "12_months": "12 شهرًا"
         }
     },
     "en": {
@@ -19,7 +22,10 @@
         "popular": "🔥 Popular",
         "duration": {
             "1_month": "1 month",
+            "2_months": "2 months",
             "3_months": "3 months",
+            "4_months": "4 months",
+            "6_months": "6 months",
             "12_months": "12 months"
         }
     },
