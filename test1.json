@@ -1,56 +1,50 @@
 {
     "ar": {
         "subscriptionTitle": "اختر خطة الاشتراك",
-        "freeGift": "+هدية مجانية",
-        "duration": {
-            "1_month": "شهر واحد",
-            "2_months": "2 أشهر",
-            "3_months": "3 أشهر",
-            "4_months": "4 أشهر",
-            "6_months": "6 أشهر",
-            "12_months": "12 شهرًا"
-        },
-        "addToCartButton": "إضافة إلى السلة",
+        "addToCartButton": "أضف إلى السلة",
+        "saveBadge": "وفر $2",
+        "freeGift": "+ هدية مجانية",
         "popular": "🔥 شائع",
-        "save": "وفر"
+        "duration": {
+            "1_month": "1 شهر",
+            "3_months": "3 أشهر",
+            "12_months": "12 شهر"
+        }
     },
     "en": {
         "subscriptionTitle": "Choose Subscription Plan",
-        "freeGift": "+Free Gift",
+        "addToCartButton": "Add to Cart",
+        "saveBadge": "Save $2",
+        "freeGift": "+ Free gift",
+        "popular": "🔥 Popular",
         "duration": {
             "1_month": "1 month",
             "3_months": "3 months",
-            "6_months": "6 months",
             "12_months": "12 months"
-        },
-        "addToCartButton": "Add to Cart",
-        "popular": "🔥 Popular",
-        "save": "Save"
+        }
     },
     "es": {
-        "subscriptionTitle": "Elige un plan de suscripción",
-        "freeGift": "+Regalo gratis",
+        "subscriptionTitle": "Elige el plan de suscripción",
+        "addToCartButton": "Agregar al carrito",
+        "saveBadge": "Ahorra $2",
+        "freeGift": "+ Regalo gratis",
+        "popular": "🔥 Popular",
         "duration": {
             "1_month": "1 mes",
             "3_months": "3 meses",
-            "6_months": "6 meses",
             "12_months": "12 meses"
-        },
-        "addToCartButton": "Añadir al carrito",
-        "popular": "🔥 Popular",
-        "save": "Ahorra"
+        }
     },
     "fr": {
         "subscriptionTitle": "Choisissez un plan d'abonnement",
-        "freeGift": "+Cadeau gratuit",
+        "addToCartButton": "Ajouter au panier",
+        "saveBadge": "Économisez $2",
+        "freeGift": "+ Cadeau gratuit",
+        "popular": "🔥 Populaire",
         "duration": {
             "1_month": "1 mois",
             "3_months": "3 mois",
-            "6_months": "6 mois",
             "12_months": "12 mois"
-        },
-        "addToCartButton": "Ajouter au panier",
-        "popular": "🔥 Populaire",
-        "save": "Économisez"
+        }
     }
 }
